@@ -1,0 +1,13 @@
+{
+    "name": "mozart/php_mvc",
+    "description": "UTS Pengembangan Layanan WEB",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "M. Zaky Nugraha A R",
+            "email": "144871095+Muzaran@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
